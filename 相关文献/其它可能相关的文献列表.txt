@@ -1,0 +1,76 @@
+Disentangled Causal Embedding With Contrastive Learning For Recommender System #因果推荐 #对比学习 #快手 https://arxiv.org/pdf/2302.03248.pdf
+Multi-Task Recommendations with Reinforcement Learning #强化学习 #多任务学习 #快手 https://arxiv.org/pdf/2302.03328.pdf
+Two-Stage Constrained Actor-Critic for Short Video Recommendation #短视频推荐 #强化学习 #快手 https://arxiv.org/pdf/2302.01680.pdf
+Exploration and Regularization of the Latent Action Space in Recommendation #强化学习 #快手 https://arxiv.org/pdf/2302.03431.pdf
+Divide and Conquer- Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective #召回 #多任务 #快手 https://arxiv.org/pdf/2302.02657.pdf
+Reinforcing User Retention in a Billion Scale Short Video Recommender System #强化学习 #用户留存 #快手 https://arxiv.org/pdf/2302.01724.pdf
+Improving Recommendation Fairness via Data Augmentation #推荐公平性 #数据增强 #蚂蚁金服 https://arxiv.org/pdf/2302.06333.pdf
+Personalized Graph Signal Processing for Collaborative Filtering #图信号处理 #协同过滤 https://arxiv.org/pdf/2302.02113.pdf
+Contrastive Collaborative Filtering for Cold-Start Item Recommendation #对比学习 #冷启动 https://arxiv.org/pdf/2302.02151.pdf
+On the Theories Behind Hard Negative Sampling for Recommendation #负采样 #样本 https://arxiv.org/pdf/2302.03472.pdf
+Learning Consensus Behind Interactions for Group Recommendation #图表示 #群组推荐 https://arxiv.org/pdf/2302.03555.pdf
+Denoising and Prompt-Tuning for Multi-Behavior Recommendation #图神经网络 #提示学习 #多行为推荐 https://arxiv.org/pdf/2302.05862.pdf
+Uncertainty Quantification for Fairness in Two-Stage Recommender Systems #推荐公平性 https://dl.acm.org/doi/pdf/10.1145/3539597.3570469
+Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation #相似性度量 #图神经网络 https://arxiv.org/abs/2207.05959
+Bootstrap Latent Representations for Multi-modal Recommendation #多模态推荐 #自监督学习 #阿里 https://arxiv.org/pdf/2207.05969.pdf
+NASRec: Weight Sharing Neural Architecture Search for Recommender Systems #神经网络架构搜索 #MetaAI https://arxiv.org/pdf/2207.07187.pdf
+Multi-queue Momentum Contrast for Microvideo-Product Retrieval #召回 #多模态 https://arxiv.org/pdf/2212.11471.pdf
+Interaction-level Membership Inference Attack Against Federated Recommender Systems #联邦推荐 #成员推理攻击 https://arxiv.org/pdf/2301.10964.pdf
+Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation #序列推荐 https://arxiv.org/pdf/2301.12197.pdf
+Adaptively Modulating Embedding Magnitude for Recommendation #向量尺度 #美团 https://arxiv.org/pdf/2302.04775.pdf
+Optimizing Feature Set for Click-Through Rate Prediction #特征交叉 #CTR预估 #腾讯 https://arxiv.org/pdf/2301.10909.pdf
+A Counterfactual Collaborative Session-based Recommender System #基于会话推荐 #自监督学习 https://arxiv.org/pdf/2301.13364.pdf
+A Deep Behavior Path Matching Network for Click-Through Rate Prediction #用户行为建模 #CTR预估 #美团 https://arxiv.org/pdf/2302.00302.pdf
+Learning with Exposure Constraints in Recommendation Systems #曝光约束 #强化学习 #multi-armed bandit https://arxiv.org/pdf/2302.01377.pdf
+P-MMF: Provider Max-min Fairness Re-ranking in Recommender System #推荐公平性 #MMF #华为诺亚方舟 https://arxiv.org/pdf/2303.06660v1.pdf
+Fairly Adaptive Negative Sampling for Recommendations #负采样 #公平性 https://arxiv.org/pdf/2302.08266.pdf
+Collaboration-Aware Graph Convolutional Network for Recommender Systems #图神经网络 #协同过滤 https://arxiv.org/pdf/2207.06221.pdf
+ConsRec: Learning Consensus Behind Interactions for Group Recommendation #群组推荐 #超图神经网络 https://arxiv.org/pdf/2302.03555.pdf
+Semi-decentralized Federated Ego Graph Learning for Recommendation #图联邦学习 #半分散的 https://arxiv.org/pdf/2302.10900.pdf
+Multi-Modal Adversarial Self-Supervised Learning for Recommendation #自监督 #多模态 https://arxiv.org/pdf/2302.10632.pdf
+Distillation from Heterogeneous Models for Top-K Recommendation #知识蒸馏 #异质教师模型 https://arxiv.org/pdf/2303.01130.pdf
+Cross-domain recommendation via user interest alignment #跨域推荐 #兴趣对齐 #联想AI https://arxiv.org/pdf/2301.11467.pdf
+Dual-interest Factorization-heads Attention for Sequential Recommendation #序列推荐 #对比学习 #快手 https://arxiv.org/pdf/2302.03965.pdf
+Compressed Interaction Graph based Framework for Multi-behavior Recommendation #多行为 #压缩图神经网络 #华为诺亚方舟 https://arxiv.org/pdf/2303.02418.pdf
+Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation #超图网络 #跨域推荐 #阿里 https://arxiv.org/pdf/2211.11191.pdf
+Automated Self-Supervised Learning for Recommendation with Masked Graph Transformer #自监督学习 #图神经网络 #腾讯 https://arxiv.org/pdf/2303.07797v1.pdf
+Robust Preference-Guided Denoising for Graph based Social Recommendation #社交推荐 #图去噪 https://fi.ee.tsinghua.edu.cn/public/publications/899e4ffc-ac4a-11ed-be73-0242ac120006.pdf
+Clustered Embedding Learning for Large-scale Recommender Systems #聚类 #工业级推荐 #shopee https://arxiv.org/pdf/2302.01478.pdf
+User Retention-oriented Recommendation with Decision Transformer #序列推荐 #提示学习 #百度 https://arxiv.org/pdf/2303.06347.pdf
+Cooperative Retriever and Ranker in Deep Recommenders #知识蒸馏 #合作训练 #推荐一致性 https://arxiv.org/pdf/2206.14649.pdf
+Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders #向量化表征 #迁移学习 #序列推荐 https://arxiv.org/pdf/2210.12316.pdf
+AutoMLP: Automated MLP for Sequential Recommendations #序列推荐 #AutoML #字节 https://arxiv.org/pdf/2303.06337.pdf
+A Self-Correcting Sequential Recommender #序列推荐 #自监督学习 https://arxiv.org/pdf/2303.02297.pdf
+Code Recommendation for Open Source Software Developers #代码推荐 #图神经网络 https://arxiv.org/abs/2210.08332
+Dual Policy Learning for Aggregation Optimization in Recommender Systems #图神经网络 #知识图谱 #强化学习 https://arxiv.org/pdf/2302.10567.pdf
+Semi-supervised Adversarial Learning for Complementary Item Recommendation #自监督学习 #循环生成对抗网络 #亚马逊 https://arxiv.org/pdf/2303.05812v1.pdf
+RL-MPCA: A Reinforcement Learning Based Multi-Phase Computation Allocation Approach for Recommender Systems #强化学习
+Intra and Inter Domain HyperGraph Convolutional Network for Cross-Domain Recommendation #跨域推荐 #超图卷积网络
+Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation #多兴趣试探 #序列推荐
+Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation #基于会话推荐 #图神经网络
+Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation #图神经网络 #Item冷启
+Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Systems: The Practitioners’ Perspective #推荐公平性 #公平性度量
+Submodular Maximization in the Presence of Biases with Applications to Recommendation #次模最大化
+ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation #图神经网络 #自适应聚合
+Enhancing User Personalization in Conversational Recommenders #对话推荐
+LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation #酒店推荐
+Recommendation with Causality enhanced Natural Language Explanations #因果 #自然语言理解
+A Simple Data-Augmented Framework For Smoothed Recommender System #数据增强
+Anti-FakeU: Defending Shilling Attacks on Graph Neural Network based Recommender Model #图对抗
+ColdNAS: Search to Modulate for User Cold-Start Recommendation #用户冷启动 #神经结构搜索
+AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation #浅层自编码器
+Quantize Sequential Recommenders Without Private Data #用户隐私 #序列推荐
+Contrastive Learning with Interest and Conformity Disentanglement for Sequential Recommendation #序列推荐 #对比学习
+MMMLP: Multi-modal Multilayer Perceptron for sequence recommendation #多模态 #序列推荐
+Few-shot News Recommendation via Cross-lingual Transfer #小样本 #新闻推荐
+Show Me The Best Outfit for A Certain Scene: A Scene-aware Fashion Recommender System #时尚推荐 #场景感知
+Multi-Behavior Recommendation with Cascading Graph Convolutional Network #多行为 #图神经网络
+Membership Inference Attacks Against Sequential Recommender Systems #序列推荐 #成员推理攻击
+Modeling Temporal Positive and Negative Excitation for Sequential Recommendation #序列推荐 #时序信息
+Cross-domain Recommendation with Behavioral Importance Perception #跨域推荐 #用户行为建模
+Balancing Unobserved Confounding with a Few Unbiased Ratings in Debiased Recommendations #消偏推荐
+Confident Action Decision via Hierarchical Policy Learning for Conversational Recommendation #对话推荐 #强化学习
+CAMUS: Attribute-Aware Counterfactual Augmentation for Minority Users in Recommendation #少数用户建模
+Dynamically Expandable Graph Convolution for Streaming Recommendation #图神经网络 #流式推荐
+Towards Explainable Collaborative Filtering with Taste Clusters Learning #可解释性 #协同过滤
+Catch: Collaborative Feature Set Search for Automated Feature Engineering #特征工程 #特征检索
